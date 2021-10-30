@@ -13,13 +13,13 @@ const data = [
   {
     id: "123",
     icon: "home",
-    location: "Home",
+    location: "Casa",
     destination: "Shoprite, Maputo, MZ",
   },
   {
     id: "456",
     icon: "briefcase",
-    location: "Work",
+    location: "Trabalho",
     destination: "Vodacom, Maputo, MZ",
   },
 ];

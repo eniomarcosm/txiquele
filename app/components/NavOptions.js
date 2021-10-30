@@ -9,13 +9,13 @@ import { selectOrigin } from "../../slices/navSlice";
 const data = [
   {
     id: "123",
-    title: "Get a ride",
+    title: "Uma Corrida",
     image: "https://links.papareact.com/3pn",
     screen: "MapScreen",
   },
   {
     id: "456",
-    title: "Order food",
+    title: "Comida",
     image: "https://links.papareact.com/28w",
     screen: "EarsSreen",
   },
